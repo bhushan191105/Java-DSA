@@ -20,6 +20,11 @@ Iterate through the array once. For each element, check if its complement (`targ
 - **Memory:** 47.42 MB (Beats 11.19%)
 - **Test Cases:** 65/65 passed ✅
 
+### Result Image
+<p align="center">
+  <img src="leetcode_1.png" alt="Two Sum Result" width="600">
+</p>
+
 ### Code
 ```java
 class Solution {
