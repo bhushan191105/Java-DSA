@@ -72,7 +72,9 @@ Each solution folder typically includes:
 
 ## 🤝 Connect With Me
 
-Sharing my journey and solutions on [LeetCode Discuss]("https://leetcode.com/u/bhushan1905/") too — let's connect, learn, and grow together!
+Sharing my journey and solutions on **LeetCode Discuss** too — let's connect, learn, and grow together!
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/bhushan1905/)
+
 
 
 ---
