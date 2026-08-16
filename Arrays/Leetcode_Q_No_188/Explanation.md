@@ -145,9 +145,10 @@ class Solution {
 | Test Cases | 30 / 30 passed |
  
 **Accepted Screenshot:** 
-```
-![Accepted](Arrays\Leetcode_Q_No_188\leetcode_188.png)
-```
+ <p align = "center">
+    <img src= "leetcode_188.png" alt= "Pascal's triangle" width = "600">
+</p>
+
  
 ---
  
