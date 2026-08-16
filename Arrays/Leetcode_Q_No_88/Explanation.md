@@ -90,3 +90,8 @@ class Solution {
     }
 }
 \`\`\`
+
+## Accepted Screenshot
+<p align = "center">
+    <img src= "leetcode_88.png" alt= "Search Insert Position Result" width = "600">
+</p>
